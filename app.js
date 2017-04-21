@@ -1,3 +1,17 @@
 var fs = require('fs');
 
-console.log('Your awesome code goes here');
+function getJavascript() {
+  
+}
+
+function getCSS() {
+  
+}
+
+function getImages() {
+
+}
+
+function download() {
+
+}
